@@ -873,14 +873,13 @@
       "ext": "./json/suying.json"
     },
     {
-      "key": "秒播影院",
-      "name": "秒播🍓蓝光",
+      "key": "路漫漫",
+      "name": "路漫漫🍓动漫",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "./js/drpy.min.js",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/miaobo.json"
+      "changeable": 1,
+      "ext": "./js/lumanman.js"
     },
     {
       "key": "胖虎影视",
