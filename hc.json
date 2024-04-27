@@ -873,13 +873,13 @@
       "ext": "./json/suying.json"
     },
     {
-      "key": "路漫漫",
-      "name": "路漫漫🍓动漫",
+      "key": "喵次元",
+      "name": "喵次元🍓动漫",
       "type": 3,
       "api": "./js/drpy.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./js/lumanman.js"
+      "ext": "./js/miao.js"
     },
     {
       "key": "胖虎影视",
