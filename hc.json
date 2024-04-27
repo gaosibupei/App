@@ -558,10 +558,18 @@
       "changeable": 1
     },
     {
-      "key": "T4-IKTV",
-      "name": "KTV🎤音乐",
-      "type": 4,
-      "api": "https://catbox.n13.club/iktv.php"
+      "key": "有声小说js",
+      "name": "有声🎧小说",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/有声小说吧.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     },
     {
       "key": "酷看",
