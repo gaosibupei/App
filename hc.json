@@ -202,12 +202,12 @@
       "name": "皮皮虾🦐蓝光4K",
       "type": 3,
       "api": "csp_Ppxzy",
-      "jar": "./jar/pg0426.jar",
+      "jar": "./jar/PG.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://ppxzy.net$$$null$$$1"
+      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://ppxzy.ink$$$null$$$1"
     },
 
     {
