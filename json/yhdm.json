@@ -16,6 +16,6 @@
         "搜索链接": "href=\"&&\"",
         "线路数组": "data-toggle=\"tab\">&&</a></li>",
         "线路标题": "[替换:第一线路>>关注公众号：东方精英汇]",
-        "分类url": "https://www.857yhdm.com/show/{cateId}---{class}--{by}------{catePg}---{year}.html",
+        "分类url": "https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html",
         "分类": "日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
       }
