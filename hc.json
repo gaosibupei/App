@@ -954,7 +954,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/a8yinyue.js"
+      "ext": "./js/lu.js"
+    },
+    {
+      "key": "樱花动漫",
+      "name": "樱花🌸动漫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/yhdm.json"
     },    
     {
       "key": "csp_xifan",
