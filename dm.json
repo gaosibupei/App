@@ -46,7 +46,7 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "site": "https://www.wogg.xyz",
         "danmu": true
-      },
+      }
     },
 
     {
