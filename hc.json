@@ -947,6 +947,16 @@
       "ext": "https://pan.shangui.cc/f/5dRbSA/ntdm.js"
     },
     {
+      "key": "路漫漫动漫",
+      "name": "路漫漫🧁动漫",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/a8yinyue.js"
+    },    
+    {
       "key": "csp_xifan",
       "name": "稀饭🍚动漫",
       "type": 3,
