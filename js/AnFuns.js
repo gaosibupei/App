@@ -7,6 +7,7 @@ var rule = {
     cate_exclude: '最新|排行',
     // url:'/type/fyclass-fypage.html',
     url:'/show/fyclassfyfilter.html',
+    tab_rename:{'播放列表①':'东辰影视2群：783264601'}, 
     filterable:1,//是否启用分类筛选,
     filter_url:'---{{fl.year}}{{fl.by}}/page/fypage',
     filter: {
