@@ -552,10 +552,11 @@
       "key": "动漫巴士",
       "name": "动漫🚌巴士",
       "type": 3,
-      "api": "csp_WexDm84",
-      "jar": "./jar/yingso.jar",
+      "api": "csp_XBPQ",
       "searchable": 1,
-      "changeable": 1
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/dmbs.json"
     },
     {
       "key": "有声小说js",
