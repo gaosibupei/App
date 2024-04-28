@@ -4,7 +4,6 @@ var rule = {
 	host:'https://m.lmm52.com',
 	// url:'/vod/show/id/fyclass/page/fypage.html',
 	url:'/vod/show/id/fyclassfyfilter.html',
-    tab_rename:{'聚合线路':'东辰影视2群：783264601'}, 
 	filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.by}}/page/fypage{{fl.year}}',
 	filter:{
