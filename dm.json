@@ -205,13 +205,6 @@
       "ext": "./lib/喵物次元.js"
     },
     {
-      "key": "曲奇动漫",
-      "name": "曲奇🎀动漫",
-      "type": 3,
-      "api": "./lib/drpy.min.js",
-      "ext": "./lib/曲奇动漫.js"
-    },
-    {
       "key": "妮可动漫",
       "name": "妮可🎀动漫",
       "type": 3,
@@ -231,16 +224,6 @@
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/怡萱动漫.js"
-    },
-    {
-      "key": "维奇动漫",
-      "name": "维奇🎀动漫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/维奇动漫.json"
     },
     {
       "key": "动漫巴士",
