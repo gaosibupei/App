@@ -530,11 +530,11 @@
       "ext": "./json/jqqys.json"
     },
     {
-      "key": "Wexduanjuvop",
+      "key": "秒播短剧",
       "name": "短剧🥰直连",
       "type": 3,
       "api": "csp_Wexduanjuvop",
-      "jar": "./jar/wex.txt",
+      "jar": "./jar/sp.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -602,10 +602,13 @@
       "ext": "./json/fantuan.json"
     },
     {
-      "key": "T4-mingri",
+      "key": "明日影视",
       "name": "明日☀影视",
-      "type": 4,
-      "api": "https://catbox.n13.club/mingri.php"
+      "type": 3,
+      "api": "csp_WexMingriys",
+      "jar": "./jar/sp.jar",
+      "searchable": 1,
+      "changeable": 1
     },
     {
       "key": "zxzj",
