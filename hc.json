@@ -841,9 +841,10 @@
       "name": "BT2🥪秒播",
       "type": 3,
       "playerType": 2,
+      "api":"csp_Bttwoo",
+      "jar": "./jar/fan0430.txt",
       "searchable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./json/bt.json"
+      "quickSearch":1
     },
     {
       "key": "csp_duoju",
