@@ -539,14 +539,14 @@
       "changeable": 1
     },
     {
-      "key": "榜一短剧",
-      "name": "榜一🍡短剧",
+      "key": "夜猫短剧",
+      "name": "夜猫🍡短剧",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_YMduanju",
+      "jar":"./jar/ymz.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/duanjuu.json"
+      "filterable": 1
     },
     {
       "key": "动漫巴士",
