@@ -997,16 +997,6 @@
       "ext": "./js/a8yinyue.js"
     },
     {
-      "key": "meowtv_dy",
-      "name": "dy🎻音乐",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/dyzb.js"
-    },
-    {
       "key": "虎牙直播js",
       "name": "虎牙🐯直播",
       "type": 3,
