@@ -1014,16 +1014,19 @@
       "key": "斗鱼js",
       "name": "斗鱼🐟直播",
       "type": 3,
-      "api": "http://152.32.170.60/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "http://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
+      "api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js",
+      "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/douyuzhibo.js",
+      "jar": "./jar/dongchenok.jar",
       "style": {
         "type": "rect",
         "ratio": 1.755
       },
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0
+      "changeable": 0,
+      "timeout": 10
     },
+
     {
       "key": "kuaishouzb",
       "name": "快手😎直播",
