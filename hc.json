@@ -293,7 +293,7 @@
       "name": "影探🦚蓝光",
       "type": 3,
       "api": "csp_App",
-      "jar": "./jar/sp.jar",
+      "jar": "./jar/yingt.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
