@@ -345,12 +345,16 @@
       ]
     },
     {
-      "key": "白嫖影视",
-      "name": "白嫖☀️蓝光",
+      "key": "韩圈",
+      "name": "韩剧🦄超清",
       "type": 3,
-      "api": "csp_BaiPiao",
-      "jar": "./jar/PandaQ240408.jar",
-      "playerType": "2"
+      "api": "csp_HanXiaoQuan",
+      "jar": "./jar/okzx.txt",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
     },
     {
       "key": "荐片",
