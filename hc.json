@@ -508,14 +508,14 @@
       "changeable": 1
     },
     {
-      "key": "夜猫短剧",
-      "name": "夜猫🍡短剧",
+      "key": "星芽短剧",
+      "name": "星芽短剧",
       "type": 3,
-      "api": "csp_YMduanju",
-      "jar":"./jar/ymz.jar",
+      "api": "csp_AppXY",
+      "jar": "./jar/djuzl.jar",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key": "动漫巴士",
