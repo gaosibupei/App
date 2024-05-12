@@ -178,6 +178,15 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
+    },
+    {
+      "key": "ext_live_protocol",
+      "name": "全部来源于网络，仅供学习交流",
+      "type": 3,
+      "api": "csp_DuoX",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     }
   ],
   "parses": [
@@ -192,7 +201,7 @@
       "url": "Web"
     },
     {
-      "name": "东辰影视",
+      "name": "关注公众号：东方精英汇",
       "type": 1,
       "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
       "ext": {
