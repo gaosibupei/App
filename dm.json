@@ -20,67 +20,7 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
     },
-    {
-      "key": "配置中心",
-      "name": "阿里夸克🏬配置",
-      "type": 3,
-      "api": "csp_Config",
-      "jar": "./lib/dongchenok.jar",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
-      "key": "玩偶弹幕",
-      "name": "玩偶⚗️弹幕4K",
-      "type": 3,
-      "api": "csp_Wogg",
-      "jar": "./lib/dongchenok.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "site": "https://www.wogg.xyz",
-        "danmu": true
-      }
-    },
-
-    {
-      "key": "夸克土豆弹幕",
-      "name": "土豆🥔弹幕4K",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "./lib/dongchenok.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "site": "https://tudou.lvdoui.top",
-        "danmu": true
-      }
-    },
-    {
-      "key": "夸克多多弹幕",
-      "name": "多多🚛弹幕4K",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "./lib/dongchenok.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "site": "https://tv.yydsys.top",
-        "danmu": true
-      }
-    },
+    
 {
       "key": "非凡资源",
       "name": "非凡🦚动漫",
