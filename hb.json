@@ -1312,23 +1312,13 @@
     },
     {
       "key": "Gitcafe",
-      "name": "☕4K云盘｜小纸条",
+      "name": "小纸条🚀云盘",
       "type": 3,
       "api": "csp_Gitcafe",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
-    },
-    {
-      "key": "csp_XYQHikerAL_云盘资源分享",
-      "name": "分享🚀网盘",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/yunpanfx.json"
     },
     {
       "key": "csp_XYQHikerAL_阿里云盘网",
