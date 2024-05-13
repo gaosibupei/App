@@ -373,16 +373,16 @@
       ]
     },
     {
-      "key": "韩圈",
-      "name": "韩剧🦄超清",
+      "key": "糯米",
+      "name": "农民👨‍🌾超清",
       "type": 3,
-      "api": "csp_HanXiaoQuan",
-      "jar": "./jar/hju.jar",
-      "playerType": 2,
+      "api": "csp_Nmys",
+      "jar": "./jar/fan0513.txt",
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
+      "changeable": 1,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
     },
 
     {
