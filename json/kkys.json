@@ -2,7 +2,7 @@
   "作者": "cally",
   "站名": "可可影视",
   "主页url": "https://www.keke13.com/",
-  "分类url": "https://www.keke13.com/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html[https://www.keke9.app/show/{cateId}------.html];;ak",
+  "分类url": "https://www.keke13.com/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html;;ak",
   "分类": "电影&连续剧&动漫&综艺纪录&短剧",
   "分类值": "1&2&3&4&6",
   "数组": "module-item\">&&\"v-item-footer\">",
