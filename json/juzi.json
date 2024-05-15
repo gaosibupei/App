@@ -23,7 +23,7 @@
   "首页片单链接加前缀": "",
   "首页片单链接加后缀": "",
   "分类起始页码": "1",
-  "分类链接": "https://juziyou.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{catePg}------{year}.html",
+  "分类链接": "https://juziyou.vip/vodtype/{cateId}.html",
   "分类名称": "阿里电影&阿里剧集&阿里综艺&阿里动漫",
   "分类名称替换词": "21&22&23&24",
   "分类截取模式": "1",
