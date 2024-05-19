@@ -729,6 +729,15 @@
       "ext": "./json/kkys.json"
     },
     {
+      "key": "黑狐影视",
+      "name": "黑狐🦊蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./json/heihu.txt"
+    },
+    {
       "key": "爱ai看",
       "name": "爱看🏜️蓝光",
       "type": 3,
