@@ -735,18 +735,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./json/heihu.txt"
-    },
-    {
-      "key": "爱ai看",
-      "name": "爱看🏜️蓝光",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "jar": "./jar/ppx.txt",
-      "ext": "FbjDcUxPqpfNr0RPuV3f6q00fpJXAZtZEXlI9/f10UBGGozerC+JkBvO/bX4Ciy9c3mMnn8zmDIq"
+      "ext": "./json/heihu.json"
     },
     
     {
