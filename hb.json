@@ -289,6 +289,16 @@
       "ext": "./js/cangzan.js"
     },
     {
+      "key": "51kanju",
+      "name": "51kanju🏂蓝光",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.51kanju.cn/api.php/app/"
+    },
+    {
       "key": "U酷",
       "name": "U酷🏂蓝光",
       "type": 1,
