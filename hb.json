@@ -528,6 +528,16 @@
       "ext": "./json/jqqys.json"
     },
     {
+      "key": "61影视",
+      "name": "61🔥影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/61.json"
+    },
+    {
       "key": "秒播短剧",
       "name": "短剧🥰直连",
       "type": 3,
