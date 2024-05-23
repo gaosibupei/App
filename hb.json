@@ -68,6 +68,17 @@
       "ext": "./json/kaixin.json"
     },
     {
+      "key": "Gitcafe",
+      "name": "云盘🧓臻享4K",
+      "type": 3,
+      "api": "csp_Paper",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/HeChengChaXiu.jar",
+      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json"
+    },
+    {
       "key": "阿里合集",
       "name": "云盘🧓臻享4K",
       "type": 3,
