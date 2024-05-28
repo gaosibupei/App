@@ -738,6 +738,15 @@
       "ext": "./json/heihu.json"
     },
     {
+      "key": "短剧天堂",
+      "name": "短剧天堂",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./json/duanjutt.json"
+    },
+    {
       "key": "素白白影视",
       "name": "素白🛰️蓝光",
       "type": 3,
