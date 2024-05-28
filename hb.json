@@ -527,14 +527,14 @@
       "filterable": 1,
       "ext": "./json/jqqys.json"
     },
-    {
-      "key": "秒播短剧",
-      "name": "短剧🥰直连",
+     {
+      "key": "短剧天堂",
+      "name": "短剧🥰天堂",
       "type": 3,
-      "api": "csp_Wexduanjuvop",
-      "jar": "./jar/djuzl.jar",
+      "api": "csp_XBPQ",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": "./json/duanjutt.json"
     },
     {
       "key": "星芽短剧",
@@ -736,15 +736,6 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "./json/heihu.json"
-    },
-    {
-      "key": "短剧天堂",
-      "name": "短剧天堂",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./json/duanjutt.json"
     },
     {
       "key": "素白白影视",
