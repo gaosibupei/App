@@ -575,7 +575,7 @@
       "name": "酷看💡直连",
       "type": 3,
       "api": "csp_Wexkukantv",
-      "jar": "./jar/kkanys.jar",
+      "jar": "./jar/kukanys.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
