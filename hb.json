@@ -738,15 +738,6 @@
       "ext": "./json/heihu.json"
     },
     {
-      "key": "可达影视",
-      "name": "可达🦊蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./json/kedays.json"
-    },
-    {
       "key": "素白白影视",
       "name": "素白🛰️蓝光",
       "type": 3,
