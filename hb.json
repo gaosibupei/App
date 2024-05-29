@@ -904,7 +904,7 @@
     },
     {
       "key": "看球",
-      "name": "看球⚾直播",
+      "name": "88⚾看球",
       "type": 3,
       "api": "csp_Kanqiu",
       "jar": "./jar/PandaQ240309.jar",
@@ -920,13 +920,13 @@
       "key": "310js",
       "name": "体育🏀直播",
       "type": 3,
-      "api": "http://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
       "changeable": 0,
       "gridview": 3,
       "style": {
         "type": "list"
       },
-      "ext": "http://152.32.170.60/fantaiying/fty/raw/branch/master/ext/310直播.js"
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/310直播.js"
     },
     {
       "key": "NT动漫",
@@ -1389,7 +1389,7 @@
     },
     {
       "key": "hl",
-      "name": "05.28接口仅测试使用",
+      "name": "05.29接口仅测试使用",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
