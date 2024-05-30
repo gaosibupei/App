@@ -14,6 +14,7 @@
         "搜索副标题": "note\">&&</div>",
         "搜索图片": "data-original=\"&&\"",
         "搜索链接": "href=\"&&\"",
+        "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
         "线路数组": "data-target=\"#ewave-playlist&&</li>[不包含:及格线路#有广线路2#线路1]",
         "线路标题": ">&&<em>[排序:优秀线路>稳定线路>优质线路>有广线路]",
         "播放数组": "ewave-playlist-content&&</ul>",
