@@ -1256,14 +1256,14 @@
       "ext": "./json/PG推送.json"
     },
     {
-      "key": "Wexyingso",
+      "key": "csp_XYQHikerAL_影搜",
       "name": "影搜⛵网盘",
       "type": 3,
-      "api": "csp_Wexyingso",
-      "jar": "./jar/yingso.jar",      
+      "api": "csp_XYQHikerAL",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "./json/yingso.json"
     },
     {
       "key": "csp_XYQHiker_盘搜索",
@@ -1389,7 +1389,7 @@
     },
     {
       "key": "hl",
-      "name": "05.29接口仅测试使用",
+      "name": "05.30接口仅测试使用",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
