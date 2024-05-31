@@ -518,8 +518,8 @@
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://www.meijumi.xyz/$$$null$$$1"
     },
     {
-      "key": "剧圈影视",
-      "name": "剧圈🔥影视",
+      "key": "茶狐影视",
+      "name": "茶狐🍹影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -658,14 +658,14 @@
       "searchable": 0
     },
     {
-      "key": "csp_XYQHikerAL_9995",
-      "name": "9995🐣云盘",
+      "key": "剧圈影视",
+      "name": "剧圈🔥蓝光",
       "type": 3,
-      "api": "csp_XYQHikerAL",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/9995yunpan.json"
+      "ext": "./json/jqqzx.json"
     },
     {
       "key": "利播蓝光",
