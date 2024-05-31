@@ -7,7 +7,7 @@ import re
 from base.spider import Spider
 import sys
 sys.path.append('..')
-xurl = "https://www.keke6.app"
+xurl = "https://www.keke9.app"
 headerx = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36'
 }
