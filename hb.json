@@ -777,18 +777,14 @@
       "ext": "./js/diduan.js"
     },
     {
-      "key": "飞云",
-      "name": "飞云🏝影视",
-      "type": 3,
-      "api": "./js/AppysV2.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "host": "http://122.228.84.103:6117/api.php/app/",
-        "*": [
-          "http://122.228.84.103:7777/api/?key=AIN9Y1Sca7qJSzInL5&url="
-        ]
-      }
+       "key": "py_可乐弹幕",
+       "name": "可乐🏝弹幕",
+       "type": 3,
+       "api": "py_langquntv",
+       "searchable": 1,
+       "quickSearch": 0,
+       "filterable": 1,
+       "ext": "./json/可乐弹幕.py"
     },
     {
       "key": "魔力高清",
