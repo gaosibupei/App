@@ -16,7 +16,6 @@
         "搜索链接": "href=\"&&\"",
         "线路数组": "#down&&</li>[排序:奇>搜>咪]",
         "线路标题": "+>&&</a>",
-        "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
         "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html;;akm0",
         "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
       }
