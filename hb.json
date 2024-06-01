@@ -808,6 +808,32 @@
       "ext": "https://www.libvio.pw/"
     },
     {
+      "key": "csp_Nkdy",
+      "name": "耐看🏔直连",
+      "api": "csp_Nkdy",
+      "jar": "./jar/naikan.jar",
+      "type": 3,
+      "playerType": "2"
+    },
+    {
+      "key": "csp_Mp4Mov",
+      "name": "Mp4电影🧲磁力",
+      "type": 3,
+      "api": "csp_Mp4Mov",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+      },
+    {
+      "key":"csp_Xunlei8",
+      "name":"迅雷吧🧲磁力",
+      "type":3,
+      "api":"csp_Xunlei8",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+      },
+     {
       "key": "csp_Yj1211",
       "name": "网红📱直播",
       "type": 3,
@@ -1384,7 +1410,7 @@
     },
     {
       "key": "hl",
-      "name": "05.31接口仅测试使用",
+      "name": "06.01接口仅测试使用",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
