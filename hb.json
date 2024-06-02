@@ -94,7 +94,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/alisusu.json"
+      "ext": "./json/alisusu.json"
     },
     {
       "key": "玩偶哥哥",
@@ -128,7 +128,7 @@
       "name": "影巢🚜臻享4K",
       "type": 3,
       "api": "csp_Hdhive",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/pg2.jar",
+      "jar": "./jar/pg2.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -150,7 +150,7 @@
       "name": "校长🛶蓝光4K",
       "type": 3,
       "api": "csp_XiaoZhang",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/PG.jar",
+      "jar": "./jar/PG.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -162,7 +162,7 @@
       "name": "团长🍡蓝光4K",
       "type": 3,
       "api": "csp_TZFile",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/PG.jar",
+      "jar": "./jar/PG.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -529,6 +529,7 @@
       "name": "短剧🥰天堂",
       "type": 3,
       "api": "csp_XBPQ",
+      "playerType": 1,
       "searchable": 1,
       "changeable": 1,
       "ext": "./json/duanjutt.json"
@@ -634,7 +635,7 @@
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/yinyue.json"
+      "ext": "./json/yinyue.json"
     },
     {
       "key": "JustLive",
@@ -1139,8 +1140,8 @@
       "key": "dr_兔小贝",
       "name": "儿童📚兔小贝",
       "type": 3,
-      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/兔小贝.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1161,7 +1162,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "http://152.32.170.60/fantaiying/fty/raw/branch/master/ext/少儿教育.json"
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -1175,7 +1176,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "http://152.32.170.60/fantaiying/fty/raw/branch/master/ext/小学课堂.json"
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -1189,7 +1190,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "http://152.32.170.60/fantaiying/fty/raw/branch/master/ext/初中课堂.json"
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -1203,14 +1204,13 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "http://152.32.170.60/fantaiying/fty/raw/branch/master/ext/高中课堂.json"
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"
     },
     {
       "key": "csp_Bili短剧",
       "name": "哔哩🅱️短剧",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/xiaohu.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
@@ -1241,7 +1241,7 @@
       "name": "夸克🛹网盘",
       "type": 3,
       "api": "csp_QuarkPanso",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/pgliu.jar",
+      "jar": "./jar/pgliu.jar",
       "changeable": 2,
       "searchable": 1,
       "quickSearch": 1,
