@@ -844,6 +844,7 @@
       "name": "TVB📭云播",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./jar/HeChengChaXiu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
