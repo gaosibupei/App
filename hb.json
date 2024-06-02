@@ -884,6 +884,7 @@
       "name": "速映🐨影视",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./jar/spider1.png",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
