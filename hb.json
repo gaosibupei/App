@@ -1009,8 +1009,8 @@
       "key": "虎牙直播js",
       "name": "虎牙🐯直播",
       "type": 3,
-      "api": "http://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "http://152.32.170.60/fantaiying/fty/raw/branch/master/ext/huya2.js",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
