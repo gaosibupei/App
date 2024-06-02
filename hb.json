@@ -569,17 +569,14 @@
       "changeable": 0
     },
     {
-      "key": "糯米",
-      "name": "农民👨‍🌾直连",
-      "type": 3,
-      "api": "csp_Nmys",
-      "jar": "./jar/fan0530.txt",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
-    },
+       "key": "农民影视",
+       "name": "农民👨‍🌾直连",
+       "type": 3,
+       "api": "csp_WexNmys",
+       "jar": "./jar/nmys.jar",
+       "searchable": 1,
+       "changeable": 1
+        },
     {
       "key": "Vidhub",
       "name": "Vid🌃影视",
@@ -847,7 +844,6 @@
       "name": "TVB📭云播",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/HeChengChaXiu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -857,12 +853,11 @@
       "key": "两个BT",
       "name": "BT2🥪秒播",
       "type": 3,
-      "playerType": 2,
-      "api":"csp_Bttwoo",
-      "jar": "./jar/fan0513.txt",
+      "api": "csp_Wexbttwo",
+      "jar": "./jar/nmys.jar",
       "searchable": 1,
-      "quickSearch":1
-    },
+      "changeable": 1
+        },
     {
       "key": "csp_duoju",
       "name": "星辰🕌影院",
