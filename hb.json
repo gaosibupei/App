@@ -834,7 +834,7 @@
        "name": "天天🍦影视",
        "type": 3,
        "api": "csp_AppTT",
-       "jar": "./jar/nangua.jar",
+       "jar": "./jar/nmys.jar",
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 1
