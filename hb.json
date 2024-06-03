@@ -731,7 +731,6 @@
       "name": "木耳🥑蓝光",
       "type": 1,
       "api": "https://json.heimuer.tv/api.php/provide/vod/?ac=list",
-      "playUrl": "json:https://player.heimuer.tv/index.html?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
