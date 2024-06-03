@@ -1340,6 +1340,20 @@
       "filterable": 1,
       "ext": "./json/alypw.json"
     },
+    {
+      "key": "小纸条弹幕",
+      "name": "弹幕小纸条",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "jar": "./jar/dongchenzx.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "danmu": true
+      }
+    },
 {
       "key": "盘Se",
       "name": "盘Se🚌弹幕",
