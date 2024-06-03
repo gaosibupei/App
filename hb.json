@@ -717,6 +717,16 @@
       "ext": "./json/4kvm.json"
     },
     {
+      "key": "秒播",
+      "name": "秒播🐳蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/miaobo.json"
+    },
+    {
       "key": "可可影视",
       "name": "可可🦙蓝光",
       "type": 3,
