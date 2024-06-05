@@ -39,7 +39,23 @@
       },
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json"
     },
-
+{
+      "key": "土豆弹幕版",
+      "name": "土豆🥔弹幕4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "./jar/dongchenok.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://tudou.lvdoui.top",
+        "danmu": true
+      },
+      "timeout": 25
+    },
     {
       "key": "玩偶弹幕版",
       "name": "玩偶⚗️弹幕4K",
@@ -248,23 +264,6 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./json/wogg.json"
-    },
-    {
-      "key": "土豆弹幕版",
-      "name": "土豆🥔弹幕4K",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "./jar/dongchenok.jar",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://tudou.lvdoui.top",
-        "danmu": true
-      },
-      "timeout": 25
     },
     {
       "key": "新6V",
