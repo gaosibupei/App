@@ -57,16 +57,16 @@
       "timeout": 25
     },
     {
-            "key": "yydsys",
-            "name": "土豆🥔网盘",
-            "type": 3,
-            "api": "csp_Wobg",
-            "jar": "./jar/PG.jar",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./json/wogg.json"
+       "key": "tudouyyds",
+       "name": "土豆🥔臻享4K",
+       "type": 3,
+       "api": "csp_Wobg",
+       "jar": "./jar/PG.jar",
+       "quickSearch": 1,
+       "changeable": 1,
+       "filterable": 1,
+       "timeout": 60,
+       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./json/wogg.json"
         },
     {
       "key": "玩偶弹幕版",
@@ -140,16 +140,6 @@
         "siteUrl": "https://www.wogg.net/",
         "danMu": "弹"
       }
-    },
-    {
-      "key": "csp_XYQHikerAL_土豆",
-      "name": "土豆🥔臻享4K",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tudou.json"
     },
     {
       "key": "Hdhive",
