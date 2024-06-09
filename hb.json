@@ -57,6 +57,18 @@
       "timeout": 25
     },
     {
+            "key": "yydsys",
+            "name": "土豆🥔网盘",
+            "type": 3,
+            "api": "csp_Wobg",
+            "jar": "./jar/PG.jar",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./json/wogg.json"
+        },
+    {
       "key": "玩偶弹幕版",
       "name": "玩偶⚗️弹幕4K",
       "type": 3,
