@@ -1472,7 +1472,7 @@
     },
     {
       "key": "hl",
-      "name": "06.03接口仅测试使用",
+      "name": "06.10接口仅测试使用",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
