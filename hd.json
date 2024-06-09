@@ -1092,18 +1092,14 @@
       "ext": "http://127.0.0.1:9978/file/TV/token.txt"
     },
     {
-      "key": "夸克盘搜",
-      "name": "夸克🛹网盘",
-      "type": 3,
-      "api": "csp_QuarkPanso",
-      "jar": "./lib/pgliu.jar",
-      "changeable": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/tokenm.json",
-      "timeout": 60
-    },
+       "key": "秒搜",
+       "name": "秒搜🛹网盘",
+       "type": 3,
+       "api": "csp_MiaoSou",
+       "jar": "./lib/pg0426.jar",
+       "timeout": 60,
+       "ext": "./lib/tokenm.json"
+        },
     {
       "key": "Funletu",
       "name": "趣盘搜🛵夸克",
