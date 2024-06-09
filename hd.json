@@ -94,13 +94,14 @@
       "ext": "./lib/kaixin.json"
     },
     {
-      "key": "Wexyuyueys",
-      "name": "雨落🍹直连4K",
+      "key": "csp_XYQHikerAL_多多",
+      "name": "多多🍀臻享4K",
       "type": 3,
-      "api": "csp_Wexyuyueys",
-      "jar": "./lib/wex.txt",
+      "api": "csp_XYQHikerAL",
       "searchable": 1,
-      "changeable": 1
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/duoduo.json"
     },
     {
       "key": "csp_XYQHikerAL_阿里苏苏",
