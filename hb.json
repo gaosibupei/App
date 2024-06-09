@@ -13,19 +13,6 @@
       "filterable": 0
     },
     {
-      "key":"Wexconfig",
-      "name":"土豆臻享🥔配置中心",
-      "type":3,
-      "api":"csp_Wexconfig",
-      "jar":"./jar/tudouzx.jar",
-      "searchable":0,
-      "changeable":0,
-      "style":{
-      "type":"rect",
-      "ratio":1.43
-     }
-    },
-    {
       "key": "配置中心ok",
       "name": "弹幕线路🌥️┃配置中心",
       "type": 3,
@@ -52,7 +39,19 @@
       },
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json"
     },
-
+{
+      "key":"Wexconfig",
+      "name":"土豆臻享🥔配置中心",
+      "type":3,
+      "api":"csp_Wexconfig",
+      "jar":"./jar/tudouzx.jar",
+      "searchable":0,
+      "changeable":0,
+      "style":{
+      "type":"rect",
+      "ratio":1.43
+     }
+    },
 {
       "key": "土豆弹幕版",
       "name": "土豆🥔弹幕4K",
