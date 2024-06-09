@@ -74,93 +74,93 @@
       "key": "AnFuns",
       "name": "AnFuns🎀动漫",
       "type": 3,
-      "api": "./lib/drpy.min.js",
-      "ext": "./lib/AnFuns.js"
+      "api": "./liu/drpy.min.js",
+      "ext": "./liu/AnFuns.js"
     },
 
     {
       "key": "NT动漫",
       "name": "NT🎀动漫",
       "type": 3,
-      "api": "./lib/drpy.min.js",
+      "api": "./liu/drpy.min.js",
       "ext": "https://pan.shangui.cc/f/5dRbSA/ntdm.js"
     },
     {
       "key": "58动漫",
       "name": "58🎀动漫",
       "type": 3,
-      "api": "./lib/drpy.min.js",
-      "ext": "./lib/58动漫.js"
+      "api": "./liu/drpy.min.js",
+      "ext": "./liu/58动漫.js"
     },
     {
       "key": "路漫漫",
       "name": "路🎀漫漫",
       "type": 3,
-      "api": "./lib/drpy.min.js",
-      "ext": "./lib/路漫漫.js"
+      "api": "./liu/drpy.min.js",
+      "ext": "./liu/路漫漫.js"
     },
     {
       "key": "动漫岛",
       "name": "动漫🎀岛",
       "type": 3,
-      "api": "./lib/drpy.min.js",
-      "ext": "./lib/动漫岛.js"
+      "api": "./liu/drpy.min.js",
+      "ext": "./liu/动漫岛.js"
     },
     {
       "key": "去看吧",
       "name": "去🎀看吧",
       "type": 3,
-      "api": "./lib/drpy.min.js",
-      "ext": "./lib/去看吧.js"
+      "api": "./liu/drpy.min.js",
+      "ext": "./liu/去看吧.js"
     },
     {
       "key": "爱弹幕",
       "name": "爱🎀弹幕",
       "type": 3,
-      "api": "./lib/drpy.min.js",
-      "ext": "./lib/爱弹幕.js"
+      "api": "./liu/drpy.min.js",
+      "ext": "./liu/爱弹幕.js"
     },
     {
       "key": "异世界",
       "name": "异🎀世界",
       "type": 3,
-      "api": "./lib/drpy.min.js",
-      "ext": "./lib/异世界.js"
+      "api": "./liu/drpy.min.js",
+      "ext": "./liu/异世界.js"
     },
     {
       "key": "喵次元",
       "name": "喵🎀次元",
       "type": 3,
-      "api": "./lib/drpy.min.js",
-      "ext": "./lib/喵次元.js"
+      "api": "./liu/drpy.min.js",
+      "ext": "./liu/喵次元.js"
     },
     {
       "key": "喵物次元",
       "name": "喵物🎀次元",
       "type": 3,
-      "api": "./lib/drpy.min.js",
-      "ext": "./lib/喵物次元.js"
+      "api": "./liu/drpy.min.js",
+      "ext": "./liu/喵物次元.js"
     },
     {
       "key": "妮可动漫",
       "name": "妮可🎀动漫",
       "type": 3,
-      "api": "./lib/drpy.min.js",
-      "ext": "./lib/妮可动漫.js"
+      "api": "./liu/drpy.min.js",
+      "ext": "./liu/妮可动漫.js"
     },
     {
       "key": "奇米动漫",
       "name": "奇米🎀动漫",
       "type": 3,
-      "api": "./lib/drpy.min.js",
-      "ext": "./lib/奇米动漫.js"
+      "api": "./liu/drpy.min.js",
+      "ext": "./liu/奇米动漫.js"
     },
     {
       "key": "怡萱动漫",
       "name": "怡萱🎀动漫",
       "type": 3,
-      "api": "./lib/drpy.min.js",
-      "ext": "./lib/怡萱动漫.js"
+      "api": "./liu/drpy.min.js",
+      "ext": "./liu/怡萱动漫.js"
     },
     {
       "key": "动漫巴士",
@@ -170,7 +170,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/动漫巴士.json"
+      "ext": "./liu/动漫巴士.json"
     },
     {
       "key": "樱花动漫",
