@@ -68,16 +68,6 @@
        "timeout": 60,
        "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./json/wogg.json"
         },
-        {
-      "key": "csp_Duopan",
-      "name": "夸克影视",
-      "type": 3,
-      "api": "csp_Duopan",
-      "jar": "./jar/PandaQ240609.jar",
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "https://tudou.lvdoui.top/"
-    },
     {
       "key": "玩偶弹幕版",
       "name": "玩偶⚗️弹幕4K",
