@@ -105,11 +105,10 @@
     },
     {
        "key": "yyds",
-       "name": "夸克🏆臻享4K",
+       "name": "夸克🏆弹幕4K",
        "type": 3,
        "api": "csp_Wobg",
        "jar": "./jar/PG.jar",
-       "quickSearch": 1,
        "changeable": 1,
        "filterable": 1,
        "timeout": 60,
