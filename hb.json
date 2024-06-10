@@ -96,6 +96,18 @@
       "timeout": 25
     },
     {
+       "key": "yyds",
+       "name": "夸克🏆臻享4K",
+       "type": 3,
+       "api": "csp_Wobg",
+       "jar": "./jar/PG.jar",
+       "quickSearch": 1,
+       "changeable": 1,
+       "filterable": 1,
+       "timeout": 60,
+       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./json/wogg.json"
+        },
+    {
       "key": "一青叶我_开心玩偶",
       "name": "开心🍹臻享4K",
       "type": 3,
@@ -186,18 +198,6 @@
       "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://xzyshd.com$$$null$$$1"
     },
     {
-      "key": "团长资源",
-      "name": "团长🍡蓝光4K",
-      "type": 3,
-      "api": "csp_TZFile",
-      "jar": "./jar/PG.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$null$$$1"
-    },
-    {
       "key": "csp_XYQHikerAL_多多",
       "name": "多多🥳臻享4K",
       "type": 3,
@@ -264,18 +264,6 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "./lib/tokenm.json$$$https://www.libvio.fun/$$$null"
-    },
-    {
-      "key": "Xinshijue",
-      "name": "视觉🍹网盘4K",
-      "type": 3,
-      "api": "csp_Xinshijue",
-      "jar": "./jar/pg0401.jar",
-      "searchable": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./json/wogg.json"
     },
     {
       "key": "新6V",
