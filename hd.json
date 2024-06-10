@@ -104,6 +104,18 @@
       "ext": "./lib/duoduo.json"
     },
     {
+       "key": "yyds",
+       "name": "夸克🏆臻享4K",
+       "type": 3,
+       "api": "csp_Wobg",
+       "jar": "./jar/PG.jar",
+       "quickSearch": 1,
+       "changeable": 1,
+       "filterable": 1,
+       "timeout": 60,
+       "ext": "./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./json/wogg.json"
+        },
+    {
       "key": "csp_XYQHikerAL_阿里苏苏",
       "name": "苏苏🛰️臻享4K",
       "type": 3,
