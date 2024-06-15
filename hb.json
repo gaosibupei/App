@@ -26,29 +26,17 @@
     },
     {
       "key": "豆瓣",
-      "name": "东辰影视┃加qq群757506243防失联，微信公众号：东方精英汇",
+      "name": "豆瓣🧁排行",
       "type": 3,
       "api": "csp_DouDou",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705832521307/fan.txt",
+      "jar": "./lib/fan.txt",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
     {
-      "key":"Wexconfig",
-      "name":"土豆臻享🥔配置中心",
-      "type":3,
-      "api":"csp_Wexconfig",
-      c
-      "changeable":0,
-      "style":{
-      "type":"rect",
-      "ratio":1.43
-     }
-    },
-    {
       "key": "配置中心ok",
-      "name": "弹幕线路🌥️┃配置中心",
+      "name": "弹幕线路配置中心",
       "type": 3,
       "api": "csp_Config",
       "jar": "./jar/dongchenok.jar",
@@ -91,16 +79,6 @@
       "timeout": 25
     },
     {
-      "key":"土豆",
-      "name":"土豆🥔臻享4K（阿里夸克流畅播）",
-      "type":3,
-      "api":"csp_Wextudou",
-      "jar":"./jar/tudouliu.jar",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1
-      },
-    {
       "key": "玩偶弹幕版",
       "name": "玩偶⚗️弹幕4K",
       "type": 3,
@@ -119,7 +97,7 @@
     },
     {
        "key": "yyds",
-       "name": "夸克🏆弹幕4K（88VIP夸克流畅播）",
+       "name": "夸克🏆弹幕4K",
        "type": 3,
        "api": "csp_Wobg",
        "jar": "./jar/PG.jar",
