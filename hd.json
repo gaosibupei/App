@@ -26,8 +26,7 @@
       "key": "豆瓣",
       "name": "豆瓣🧁排行",
       "type": 3,
-      "api": "csp_DouDou",
-      "jar": "./lib/fan.txt",
+      "api": "csp_Douban",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
