@@ -167,6 +167,7 @@
             "jar": "./lib/dongchenok.jar",
             "type": 3,
             "api": "csp_Xpg",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
