@@ -7,7 +7,6 @@
       "name": "东辰4K┃加qq群757506243防失联，微信公众号：东方精英汇",
       "type": 3,
       "api": "csp_Wextudou",
-      "jar": "./lib/tudouliu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
