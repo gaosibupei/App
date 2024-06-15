@@ -1,10 +1,20 @@
 {
-  "spider": "./jar/dongchen.jar",
+  "spider": "./jar/dongchenzx.jar",
   "wallpaper": "https://vi2.xiu123.cn/live/2023/08/15/17/1001v1692091979226192412.png",
   "sites": [
     {
+      "key": "土豆",
+      "name": "东辰4K┃加qq群757506243防失联，微信公众号：东方精英汇",
+      "type": 3,
+      "api": "csp_Wextudou",
+      "jar": "./lib/tudouliu.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "豆瓣",
-      "name": "东辰影视┃加qq群757506243防失联，微信公众号：东方精英汇",
+      "name": "豆瓣🧁排行",
       "type": 3,
       "api": "csp_DouDou",
       "jar": "./lib/fan.txt",
