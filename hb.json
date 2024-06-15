@@ -3,6 +3,28 @@
   "wallpaper": "https://vi2.xiu123.cn/live/2023/08/15/17/1001v1692091979226192412.png",
   "sites": [
     {
+      "key": "东辰",
+      "name": "东辰4K┃加qq群757506243防失联，微信公众号：东方精英汇",
+      "type": 3,
+      "api": "csp_Wextudou",
+      "jar": "./jar/dongchen0615.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key":"Wexconfig",
+      "name":"东辰4K配置中心",
+      "type":3,
+      "api":"csp_Wexconfig",
+      "jar": "./jar/dongchen0615.jar",
+      "changeable":0,
+      "style":{
+      "type":"rect",
+      "ratio":1.43
+     }
+    },
+    {
       "key": "豆瓣",
       "name": "东辰影视┃加qq群757506243防失联，微信公众号：东方精英汇",
       "type": 3,
@@ -17,7 +39,7 @@
       "name":"土豆臻享🥔配置中心",
       "type":3,
       "api":"csp_Wexconfig",
-      "jar":"./jar/tudouliu.jar",
+      c
       "changeable":0,
       "style":{
       "type":"rect",
@@ -1459,7 +1481,7 @@
     },
     {
       "key": "hl",
-      "name": "06.10接口仅测试使用",
+      "name": "06.16接口仅测试使用",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
