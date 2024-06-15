@@ -172,7 +172,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$null$$$1"
+      "ext": "./lib/tokenm.json$$$null$$$1"
     },
     {
       "key": "csp_XYQHikerAL_玩偶哥哥",
@@ -194,7 +194,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://xzyshd.com$$$null$$$1"
+      "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"
     },
     {
       "key": "csp_XYQHikerAL_多多",
@@ -233,7 +233,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://ppxzy.ink$$$null$$$1"
+      "ext": "./lib/tokenm.json$$$https://ppxzy.ink$$$null$$$1"
     },
 
     {
@@ -508,7 +508,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://www.meijumi.xyz/$$$null$$$1"
+      "ext": "./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"
     },
     {
       "key": "茶狐影视",
@@ -1301,7 +1301,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json",
+      "ext": "./lib/tokenm.json",
       "timeout": 60
     },
     {
