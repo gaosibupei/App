@@ -13,6 +13,17 @@
       "filterable": 1
     },
     {
+      "key":"Wexconfig",
+      "name":"东辰4K配置中心",
+      "type":3,
+      "api":"csp_Wexconfig",
+      "changeable":0,
+      "style":{
+      "type":"rect",
+      "ratio":1.43
+     }
+    },
+    {
       "key": "豆瓣",
       "name": "豆瓣🧁排行",
       "type": 3,
@@ -48,16 +59,6 @@
         "ratio": 1
       },
       "ext": "./lib/tokenm.json"
-    },
-{
-      "key": "土豆",
-      "name": "土豆🥔臻享4K(阿里夸克流畅播)",
-      "type": 3,
-      "api": "csp_Wextudou",
-      "jar": "./lib/tudouliu.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "土豆弹幕版",
@@ -1207,6 +1208,7 @@
       "name": "阿里🚁云盘",
       "type": 3,
       "api": "csp_XYQHikerAL",
+      "jar": "./lib/dongchen.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1276,7 +1278,7 @@
     },
     {
       "key": "hl",
-      "name": "06.10接口仅测试使用",
+      "name": "06.15接口仅测试使用",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
