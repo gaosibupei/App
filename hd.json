@@ -1108,6 +1108,7 @@
       "name": "少儿📚教育",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "./lib/dongchen.jar",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1122,6 +1123,7 @@
       "name": "小学📚课堂",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "./lib/dongchen.jar",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1134,6 +1136,7 @@
     {
       "key": "初中课堂",
       "name": "初中📚课堂",
+      "jar": "./lib/dongchen.jar",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -1150,6 +1153,7 @@
       "name": "高中📚课堂",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "./lib/dongchen.jar",
       "style": {
         "type": "rect",
         "ratio": 1.597
