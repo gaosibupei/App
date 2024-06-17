@@ -658,7 +658,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/miaobo.json"
+      "ext": "./json/miaobozx.json"
     },
     {
       "key": "飞刀",
@@ -1373,7 +1373,7 @@
     },
     {
       "key": "hl",
-      "name": "06.15接口仅测试使用",
+      "name": "06.17接口仅测试使用",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
