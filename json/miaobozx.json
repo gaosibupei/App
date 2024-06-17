@@ -1,5 +1,5 @@
 {
-  "滤词": "",
+                "滤词": "",
 				"直接播放": "0",
 				"播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad", 
 				"首页": "90",
@@ -30,7 +30,7 @@
 				"影片地区":"vod_area\":\"&&\"",
 				"导演": "vod_director\":\"&&\"",
 				"主演": "vod_actor\":\"&&\"",
-				"简介":"关注公众号“东方精英汇”，获取最新接口，加qq群757506243防迷失！【东辰影视】提醒您以下为简介：+vod_content\"*\"&&\"",
+				"简介":"关注公众号“东方精英汇”，获取最新接口，加qq群757506243防迷失！【东辰影视】提醒您：请勿相信影片中的广告，广告与接口无关！+vod_content\"*\"&&\"",
 				"搜索url":"/api.php/provide/vod/?ac=detail&wd={wd}&pg={pg}",
 				"搜索模式":"1",
 				"搜索二次截取":"list\":\\[&&\\]",
