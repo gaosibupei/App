@@ -156,6 +156,33 @@
       "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://www.66ss.org$$$null$$$1"
     },
     {
+      "key": "花蕊影视",
+      "name": "花蕊🏵️影视",
+      "type": 3,
+      "api": "csp_Wexhuaruitv",
+      "jar": "./lib/jiazi.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "甲子影视",
+      "name": "甲子🌲影视",
+      "type": 3,
+      "api": "csp_Wexjiazitv",
+      "jar": "./lib/jiazi.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "河马短剧",
+      "name": "河马🦛短剧",
+      "type": 3,
+      "api": "csp_Wexduanjuhema",
+      "jar": "./lib/jiazi.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
             "key": "酷看弹幕",
             "name": "酷看😎弹幕",
             "type": 3,
