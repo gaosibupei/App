@@ -7,7 +7,7 @@
       "name": "东辰4K┃加qq群757506243防失联，微信公众号：东方精英汇",
       "type": 3,
       "api": "csp_Wextudou",
-      "jar": "./jar/dongchen0615.jar",
+      "jar": "https://7988.kstore.space/dongchen0615.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -17,7 +17,7 @@
       "name":"东辰4K配置中心",
       "type":3,
       "api":"csp_Wexconfig",
-      "jar": "./jar/dongchen0615.jar",
+      "jar": "https://7988.kstore.space/dongchen0615.jar",
       "changeable":0,
       "style":{
       "type":"rect",
