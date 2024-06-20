@@ -1430,7 +1430,7 @@
       "name": "弹幕🚟小纸条",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
-      "jar": "./lib/dongchenok.jar",
+      "jar": "./jar/xiaozt.jar",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
