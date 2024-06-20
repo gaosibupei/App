@@ -1292,17 +1292,19 @@
       "ext": "http://127.0.0.1:9978/file/TV/token.txt"
     },
     {
-      "key": "夸克盘搜",
-      "name": "夸克🛹网盘",
+      "key": "夸克影搜弹幕",
+      "name": "夸克🛹影搜",
       "type": 3,
-      "api": "csp_QuarkPanso",
-      "jar": "./jar/pgliu.jar",
-      "changeable": 2,
+      "api": "csp_Yingso",
+      "jar": "./jar/xiaozt.jar",
       "searchable": 1,
-      "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/tokenm.json",
-      "timeout": 60
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "danmu": true
+      }
     },
     {
       "key": "Funletu",
