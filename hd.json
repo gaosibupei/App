@@ -1370,19 +1370,18 @@
       }
     },
     {
-      "key": "盘搜",
-      "name": "盘搜🚟弹幕",
+      "key": "小纸条弹幕",
+      "name": "弹幕🚟小纸条",
       "type": 3,
-      "api": "csp_PanSou",
-      "jar": "./lib/dongchenzx.jar",
+      "api": "csp_XiaoZhiTiao",
+      "jar": "./lib/dongchenok.jar",
       "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
+      "filterable": 1,
+      "changeable": 1,
       "ext": {
-        "token": "file://TV/ali_token.txt",
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
-      },
-      "timeout": 15
+      }
     },
     {
       "key": "ext_live_protocol",
