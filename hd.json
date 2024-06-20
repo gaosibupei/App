@@ -679,16 +679,14 @@
       "ext": "./lib/4kvm.json"
     },
     {
-      "key": "秒播",
-      "name": "秒播🐳蓝光",
+      "key": "策驰",
+      "name": "策驰🐳蓝光",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/dongchen.jar",
-      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/miaobozx.json"
+      "ext": "./json/ceci.json"
     },
     {
       "key": "飞刀",
